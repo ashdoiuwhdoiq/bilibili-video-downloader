@@ -65,12 +65,7 @@ requirements.txt        Python 依赖
 package.json            前端依赖与脚本
 ```
 
-## 发布建议
 
-- GitHub 仓库：只放源码
-- GitHub Releases：上传绿色版 zip
-
-可以参考 `docs/RELEASE.md` 的打包说明。
 
 ## 注意事项
 
