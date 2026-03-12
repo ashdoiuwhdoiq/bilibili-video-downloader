@@ -49,7 +49,7 @@ python api.py
 - `dist/`
 - `runtime/`
 - `start.bat`
-- `README-绿色版.md`
+- `README-green.md`
 
 下载后解压，双击 `start.bat` 即可。
 

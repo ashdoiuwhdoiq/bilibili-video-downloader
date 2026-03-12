@@ -49,3 +49,6 @@ python-embed.zip
 *.tmp
 *.temp
 *.log
+
+# Generated release artifacts
+release-output/
